@@ -10,9 +10,8 @@ namespace TodoAppApi.Models
 
         [Required]
         [StringLength(50)]
-        public string NombreEstado { get; set; }
+        public string Nombre { get; set; } // <- unificado, nombre claro
 
-        // Navegación: un estado puede tener muchas tareas asociadas
         public ICollection<Tarea> Tareas { get; set; }
     }
 }

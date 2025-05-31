@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cristian\\Desktop\\GitHub\\TallerFinalWebApi\\TodoAppApi\\TodoAppApi.csproj": {}
+    "C:\\Users\\Brian Cadavid\\OneDrive\\Desktop\\GitHub\\TallerFinalWebApi\\TodoAppApi\\TodoAppApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cristian\\Desktop\\GitHub\\TallerFinalWebApi\\TodoAppApi\\TodoAppApi.csproj": {
+    "C:\\Users\\Brian Cadavid\\OneDrive\\Desktop\\GitHub\\TallerFinalWebApi\\TodoAppApi\\TodoAppApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cristian\\Desktop\\GitHub\\TallerFinalWebApi\\TodoAppApi\\TodoAppApi.csproj",
+        "projectUniqueName": "C:\\Users\\Brian Cadavid\\OneDrive\\Desktop\\GitHub\\TallerFinalWebApi\\TodoAppApi\\TodoAppApi.csproj",
         "projectName": "TodoAppApi",
-        "projectPath": "C:\\Users\\Cristian\\Desktop\\GitHub\\TallerFinalWebApi\\TodoAppApi\\TodoAppApi.csproj",
-        "packagesPath": "C:\\Users\\Cristian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cristian\\Desktop\\GitHub\\TallerFinalWebApi\\TodoAppApi\\obj\\",
+        "projectPath": "C:\\Users\\Brian Cadavid\\OneDrive\\Desktop\\GitHub\\TallerFinalWebApi\\TodoAppApi\\TodoAppApi.csproj",
+        "packagesPath": "C:\\Users\\Brian Cadavid\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brian Cadavid\\OneDrive\\Desktop\\GitHub\\TallerFinalWebApi\\TodoAppApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Cristian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Brian Cadavid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,6 +71,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
             }
           },
           "imports": [
@@ -92,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

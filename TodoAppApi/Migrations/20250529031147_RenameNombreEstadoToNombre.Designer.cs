@@ -12,8 +12,8 @@ using TodoAppApi.Data;
 namespace TodoAppApi.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250517030358_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20250529031147_RenameNombreEstadoToNombre")]
+    partial class RenameNombreEstadoToNombre
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -59,7 +59,7 @@ namespace TodoAppApi.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("NombreEstado")
+                    b.Property<string>("Nombre")
                         .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
