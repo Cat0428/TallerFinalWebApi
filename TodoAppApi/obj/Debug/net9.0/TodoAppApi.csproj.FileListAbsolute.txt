@@ -335,3 +335,6 @@ C:\Users\Brian Cadavid\OneDrive\Desktop\GitHub\TallerFinalWebApi\TodoAppApi\obj\
 C:\Users\Brian Cadavid\OneDrive\Desktop\GitHub\TallerFinalWebApi\TodoAppApi\obj\Debug\net9.0\TodoAppApi.pdb
 C:\Users\Brian Cadavid\OneDrive\Desktop\GitHub\TallerFinalWebApi\TodoAppApi\obj\Debug\net9.0\TodoAppApi.genruntimeconfig.cache
 C:\Users\Brian Cadavid\OneDrive\Desktop\GitHub\TallerFinalWebApi\TodoAppApi\obj\Debug\net9.0\ref\TodoAppApi.dll
+C:\Users\Cristian\Desktop\GitHub\TallerFinalWebApi\TodoAppApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Cristian\Desktop\GitHub\TallerFinalWebApi\TodoAppApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Cristian\Desktop\GitHub\TallerFinalWebApi\TodoAppApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
